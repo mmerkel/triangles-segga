@@ -1,7 +1,7 @@
 # triangles-segga
 This repository contains python code to extract triangle-based cell shape anisotropy (see [this publication](https://doi.org/10.1103/PhysRevE.95.032401) for details) from biological image data segmented using [SEGGA](http://dx.doi.org/10.1242/dev.146837).
 
-This code was developed for the research published in:
+This code was developed for the research in:
 **[Anisotropy links cell shapes to a solid-to-fluid transition during convergent extension.](http://dx.doi.org/10.1101/781492)** Xun Wang, Matthias Merkel, Leo B. Sutter, Gonca Erdemci-Tandogan, M. Lisa Manning, Karen E. Kasza. *bioRxiv*, doi: 10.1101/781492 (2019).
 
 ## Requirements
