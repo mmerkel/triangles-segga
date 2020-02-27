@@ -14,7 +14,7 @@ This code was developed for the research in:
 ## Structure and usage
 - This package contains a collection of data structures and routines to extract and display the cellular structure from SEGGA-segmented data, as well as compute a triangle-based cell shape tensor.
 - One way to use this code is to start from `extractAverageQ.py` and adapt it to your needs.
-- It contains the following python files:
+- This repository contains the following python files:
     - `Geometry/` folder containing routines to carry out geometric computations:
         - `Point.py`  definition of a point
         - `Nematic.py`  definition of a "nematic" (i.e. a symmetric, traceless tensor in 2D)
